@@ -1,0 +1,17 @@
+
+body{
+	background: black;
+	justify-content: center;
+	align-items: center;
+	height: 10vh;
+}
+
+
+h1 {
+	text-align: center;
+	background: black;
+	color: green;
+	font-family: monospace;
+	height: 1vh;
+
+}
